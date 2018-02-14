@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed');
 * {
     margin: 0;
     padding: 0;
@@ -28,7 +29,7 @@ body.nav-opened {
 
 p,
 a {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Barlow Condensed', sans-serif;
 }
 
 a {
@@ -158,7 +159,7 @@ header .top-message hr {
 }
 
 header .top-message h2 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Barlow Condensed', sans-serif;
     font-weight: 300;
     color: rgba(255, 255, 255, 0.75);
 }
