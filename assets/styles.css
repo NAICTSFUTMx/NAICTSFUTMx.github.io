@@ -717,8 +717,8 @@ header .main-nav .menu:hover {
     }
     
     .slide {
-        display: flex;
-        flex-direction: column;
+        display: flex !important;
+        flex-direction: column !important
     }
     
     .links {
